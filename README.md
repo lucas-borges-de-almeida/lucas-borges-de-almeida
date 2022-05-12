@@ -30,4 +30,6 @@
 
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br/>
+
 Estudante de Ciências da Computação na Universidade Federal do Cariri se especializando e ganhando conhecimento dia após dia para mudar o mundo com programação!
